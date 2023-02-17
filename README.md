@@ -1,6 +1,6 @@
 - Swiss developer 🇨🇭
 - Linux (mostly)
-- Flight simulatr enthusiast
+- Flight simulator enthusiast
 
 <!---
 boredcoder411/boredcoder411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
