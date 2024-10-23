@@ -1,6 +1,7 @@
 - Swiss developer 🇨🇭
-- Very broke, send ETH here: 0x2Edc0d759c9D912Db15f9A1CFA0126f42d9a955d
-- Flight simulator enthusiast
+- Physics fan, I have a passion for fluid dynamics
+- Linux networking and protocols are my speciality
+- Contact: boredcoder411 on discord
 
 <!---
 boredcoder411/boredcoder411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
